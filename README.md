@@ -23,7 +23,7 @@ This analysis provides a comprehensive overview of pizza sales performance in 20
 - **Sunday** has the lowest orders (**2.6K**).  
 - **Peak Order Times**: **Noon & Dinner**, suggesting prime hours for targeted promotions.  
 
-### **🍕 Product Analysis (High-Level)**
+### **🍕 Product Analysis (general)**
 - **Medium and Small pizzas** are the most popular sizes.  
 - **Chicken-based pizzas** are the top choices.  
 - **Classic, Supreme, and Veggie pizzas** also have significant sales.  
