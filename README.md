@@ -1,7 +1,11 @@
-# 📊 Pizza Sales Performance Dashboard (2015)
+# 📊 Pizza Sales Performance Dashboard 
 
-<img width="671" alt="pizza" src="https://github.com/user-attachments/assets/6f81b37f-bd01-4a77-b373-478de39fc0f1" />
-<img width="671" alt="pizza3" src="https://github.com/user-attachments/assets/94b49efa-312c-4794-8ed1-19159875d3de" />
+<img width="1000" alt="pizza" src="https://github.com/user-attachments/assets/ef31068e-3c73-477b-b436-5ab5c0fb0ea0" />
+<img width="1000" alt="pizza3" src="https://github.com/user-attachments/assets/5fad3dc8-ccc3-4ab5-a639-5cf464b759d2" />
+
+![image](https://github.com/user-attachments/assets/5fad3dc8-ccc3-4ab5-a639-5cf464b759d2)
+
+
 
 ## Overview
 This analysis provides a comprehensive overview of pizza sales performance in 2015, offering insights from both a general sales overview and a detailed product analysis dashboard.
