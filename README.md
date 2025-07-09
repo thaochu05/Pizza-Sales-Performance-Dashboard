@@ -4,8 +4,8 @@
 <img width="1000" alt="pizza3" src="https://github.com/user-attachments/assets/5fad3dc8-ccc3-4ab5-a639-5cf464b759d2" />
 
 
-
-
+## 📊 Live Dashboard
+[🔗 View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDUwNGU0NmItZTAxYS00MDAyLWE4YmQtMWE4NDBiMTI4YzI4IiwidCI6ImU4Njk2MTEzLWQ0NTktNDI4OS05YjkxLTk5MjcwM2M0NzNjMSJ9&pageName=6b10c0a6570901128069)
 
 ## Overview
 This analysis provides a comprehensive overview of pizza sales performance in 2015, offering insights from both a general sales overview and a detailed product analysis dashboard.
